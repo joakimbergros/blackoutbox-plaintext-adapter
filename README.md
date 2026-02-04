@@ -1,0 +1,1 @@
+# blackoutbox-plaintext-adapter
